@@ -20,5 +20,5 @@ int main()
 	for(int i = 0; i < j; i++ ){
 		sum += array[i];
 	}
-	std::cout << "The sum is " <<sum;
+	std::cout << "The sum is " << sum;
 }
